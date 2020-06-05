@@ -90,7 +90,7 @@
         app:layout_constraintTop_toTopOf="@+id/txv2"
         tools:layout_editor_absoluteX="486dp"
         app:layout_constraintStart_toEndOf="@+id/txv2"
-        app:layout_constraintEnd_toEndOf="parent"/>
+        app:layout_constraintEnd_toEndOf="parent"/>//..
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
